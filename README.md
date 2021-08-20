@@ -105,6 +105,7 @@ image)
 ## Text Extraction with Py-tesseract
 
 For a single variable, extract the string from the cropped block and tune slightly with re.sub()
+
 ![image](https://user-images.githubusercontent.com/38795845/130285391-a2c7e678-2427-440e-9557-a02b6c954a5a.png)
 
 - Text Extraction Performance:
