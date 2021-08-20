@@ -92,6 +92,7 @@ Recheck the size of processed images: ‘Form1’: all sized (300, 1800)
 Therefore, to cut small fields of a single variable, we need to cut with ratio. (For
 example: How much percentage does the ‘Decedent’ block covering the processed Form 1
 image)
+
 ![image](https://user-images.githubusercontent.com/38795845/130285280-c02a0300-8d8b-4972-b876-01e2a12ddd1e.png)
 
 #### Cropped outputs
