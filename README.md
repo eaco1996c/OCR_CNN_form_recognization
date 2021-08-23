@@ -3,6 +3,8 @@ This project is a computer vision project. The purpose is to recognize texts fro
 
 Burial records are important evidence for cemetery service management. They often contain the name of the deceased and the detailed location and date of the burial. Because of the large time span since the burial service started, many dated  records have not been electronicized, and there are handwritten records. This project aims to digitize these records. Digitalization of these records helps maintain them as well as analysis on historical populations. Also, digitized records are more convenient for review and long-term preservation.
 
+**Project Framework**
+
 ![image](https://user-images.githubusercontent.com/38795845/130498415-b452e18e-8ffb-4bd4-8c28-8fdac4d41bbc.png)
 
 
